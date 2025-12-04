@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import mean_absolute_error, accuracy_score
 from sklearn.model_selection import train_test_split                                                               
 # OpenWeatherMap API key
-OPENWEATHER_API_KEY = "cbaefd0144e586a8fd5352b4e037368c"   # <-- put your key here
+OPENWEATHER_API_KEY = "YOUR_API_KEY"   # <-- put your key here
 
 # =========================
 # CONFIG FOR YOUR DATASET
